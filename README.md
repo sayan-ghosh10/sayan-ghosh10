@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=140&section=header&text=Hi+there!+I'm+Sayan+Ghosh&fontSize=40&fontColor=ffffff&animation=fadeIn" align="center" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=140&section=header&text=Hi+there!+I'm+Sayan+Ghosh&fontSize=40&fontColor=000000&animation=fadeIn" align="center" alt="header"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0072ff&center=true&vCenter=true&width=650&lines=AI/ML+Enthusiast;Full-Stack+Learner;Game+Dev+Explorer;Turning+Ideas+into+Code" alt="Typing Animation" />
@@ -7,7 +7,7 @@
 
 ---
 
-[## ✨ Featured Projects  
+## ✨ Featured Projects  
 
 <p align="center">
   <table>
@@ -31,7 +31,7 @@
       </td>
     </tr>
   </table>
-</p>]
+</p>
 
 
 
@@ -95,4 +95,4 @@
 ---
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer&text=Thanks+for+visiting!&fontSize=25&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer&text=Thanks+for+visiting!&fontSize=25&fontColor=000000" width="100%"/>
